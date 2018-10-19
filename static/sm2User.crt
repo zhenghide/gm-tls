@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sm2sign-with-sm3
+        Issuer: C=CA, ST=CA, L=CA, O=CA, OU=CA, CN=CA/emailAddress=CA
+        Validity
+            Not Before: Sep 14 03:55:24 2018 GMT
+            Not After : Sep 11 03:55:24 2028 GMT
+        Subject: C=CA, ST=CA, O=CA, OU=CA, CN=user/emailAddress=CA
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub: 
+                    04:5b:42:99:81:95:df:e8:a8:47:57:4b:57:4f:19:
+                    0b:97:f1:9e:6b:e7:e7:34:62:a1:09:63:60:8c:ab:
+                    e4:74:bc:2e:9a:fa:76:78:bf:0e:6e:b5:ae:7d:3e:
+                    52:45:95:b4:72:b4:fb:8d:0f:9f:97:9c:f4:66:a4:
+                    fa:d2:73:7a:bb
+                ASN1 OID: sm2p256v1
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                98:CC:76:1C:CC:82:74:1C:89:BA:04:F3:33:D2:3D:85:C1:07:03:FA
+            X509v3 Authority Key Identifier: 
+                keyid:8D:9C:DA:6E:9F:DA:E4:DA:08:B4:73:81:20:FB:EA:36:94:58:B7:22
+
+    Signature Algorithm: sm2sign-with-sm3
+         30:44:02:20:3e:40:78:d2:35:47:07:1a:e5:0f:e0:15:52:5b:
+         30:fe:ba:2a:0e:34:f5:f7:2b:10:54:87:8b:6e:24:c0:3a:f4:
+         02:20:25:4c:54:b9:f6:c4:bd:4f:58:09:1d:42:ec:11:bf:18:
+         d7:60:6a:c3:74:38:4d:d4:68:0d:6b:90:30:67:c6:68
+-----BEGIN CERTIFICATE-----
+MIICIDCCAcegAwIBAgIBATAKBggqgRzPVQGDdTBhMQswCQYDVQQGEwJDQTELMAkG
+A1UECAwCQ0ExCzAJBgNVBAcMAkNBMQswCQYDVQQKDAJDQTELMAkGA1UECwwCQ0Ex
+CzAJBgNVBAMMAkNBMREwDwYJKoZIhvcNAQkBFgJDQTAeFw0xODA5MTQwMzU1MjRa
+Fw0yODA5MTEwMzU1MjRaMFYxCzAJBgNVBAYTAkNBMQswCQYDVQQIDAJDQTELMAkG
+A1UECgwCQ0ExCzAJBgNVBAsMAkNBMQ0wCwYDVQQDDAR1c2VyMREwDwYJKoZIhvcN
+AQkBFgJDQTBZMBMGByqGSM49AgEGCCqBHM9VAYItA0IABFtCmYGV3+ioR1dLV08Z
+C5fxnmvn5zRioQljYIyr5HS8Lpr6dni/Dm61rn0+UkWVtHK0+40Pn5ec9Gak+tJz
+erujezB5MAkGA1UdEwQCMAAwLAYJYIZIAYb4QgENBB8WHU9wZW5TU0wgR2VuZXJh
+dGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBSYzHYczIJ0HIm6BPMz0j2FwQcD+jAf
+BgNVHSMEGDAWgBSNnNpun9rk2gi0c4Eg++o2lFi3IjAKBggqgRzPVQGDdQNHADBE
+AiA+QHjSNUcHGuUP4BVSWzD+uioONPX3KxBUh4tuJMA69AIgJUxUufbEvU9YCR1C
+7BG/GNdgasN0OE3UaA1rkDBnxmg=
+-----END CERTIFICATE-----
